@@ -1,3 +1,7 @@
-# CYS Interns
+## Zain Ul Abdin
 
-Cyber Security Internship Repository.
+- Week 1 Git Task
+- Learned Git
+- Learned GitHub
+- Learned Branching
+- Learned Pull Requests
