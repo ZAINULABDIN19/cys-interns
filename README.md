@@ -1,4 +1,4 @@
-# CYS Interns
+## Zain Ul Abdin
 
 Cyber Security Internship Repository.
 
@@ -24,3 +24,8 @@ Cyber Security Internship Repository.
 18. Social Engineering – Manipulating people to obtain information.
 19. Penetration Testing – Authorized security testing of a system.
 20. Zero-Day Vulnerability – A newly discovered vulnerability with no available fix.
+- Week 1 Git Task
+- Learned Git
+- Learned GitHub
+- Learned Branching
+- Learned Pull Requests
